@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counterReactApp/static/css/main.e2413cb1.css",
+    "main.js": "/counterReactApp/static/js/main.9bc111d9.js",
+    "index.html": "/counterReactApp/index.html",
+    "main.e2413cb1.css.map": "/counterReactApp/static/css/main.e2413cb1.css.map",
+    "main.9bc111d9.js.map": "/counterReactApp/static/js/main.9bc111d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2413cb1.css",
+    "static/js/main.9bc111d9.js"
+  ]
+}
